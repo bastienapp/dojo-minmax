@@ -3,10 +3,10 @@ class Minmax {
 		int min = tableauEntier[0];
 		int max = tableauEntier[0];
 		for (int i = 0; i < tableauEntier.length; i++) {
-			if (tableauEntier[i] < min || min == -1) {
+			if (tableauEntier[i] < min) {
 				min = tableauEntier[i];
 			}
-			if (tableauEntier[i] > max || max == -1) {
+			if (tableauEntier[i] > max) {
 				max = tableauEntier[i];
 			}
 		}
