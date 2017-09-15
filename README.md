@@ -1,6 +1,6 @@
 # Minmax
 
-Ecrire une fonction retourne le minimum et le maximum d’un tableau d’entier.
+Ecrire une méthode qui retourne le minimum et le maximum d’un tableau d’entier.
 
 Rappel des commande junit :
 
