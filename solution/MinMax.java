@@ -1,4 +1,5 @@
-class Minmax {
+class MinMax {
+
 	public static int[] foundMinMax(int[] tableauEntier) {
 		int min = tableauEntier[0];
 		int max = tableauEntier[0];

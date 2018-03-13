@@ -1,0 +1,5 @@
+class MinMax {
+
+	// TODO
+
+}

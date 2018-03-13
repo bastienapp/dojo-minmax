@@ -1,5 +1,0 @@
-class Minmax {
-
-	// TODO
-
-}
